@@ -55,7 +55,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="17" parent="1" style="text;html=1;align=left;fontSize=13;fontColor=#2E7D32;" value="&lt;b&gt;3. Feature Engineering (V2-B)&lt;/b&gt;" vertex="1">
-          <mxGeometry height="25" width="260" x="60" y="325" as="geometry" />
+          <mxGeometry height="25" width="260" x="60" y="310" as="geometry" />
         </mxCell>
         <mxCell id="18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;fontColor=#1a1a2e;arcSize=15;shadow=1;" value="&lt;b&gt;log1p Transform&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#555&quot;&gt;Compress skewed metrics&lt;br&gt;(e.g. Halstead effort 1→870k)&lt;/font&gt;" vertex="1">
           <mxGeometry height="65" width="220" x="60" y="370" as="geometry" />
