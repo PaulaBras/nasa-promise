@@ -176,5 +176,8 @@ pyrightconfig.json
 # Generated plot files (notebook outputs)
 eda_class_balance.png
 feature_importance.png
+v2_cv_splits_comparison.png
+v2_threshold_opt.png
+v2_model_comparison.png
 
 # End of https://www.toptal.com/developers/gitignore/api/python
