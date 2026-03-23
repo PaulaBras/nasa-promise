@@ -173,4 +173,8 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# Generated plot files (notebook outputs)
+eda_class_balance.png
+feature_importance.png
+
 # End of https://www.toptal.com/developers/gitignore/api/python
